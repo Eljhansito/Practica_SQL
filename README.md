@@ -1,10 +1,10 @@
-# Practica_SQL# KeepCoding – Entrega SQL
+# Practica_SQL KeepCoding – Entrega SQL
 
 Entrega del módulo SQL aplicada a un caso de IVR. El trabajo abarca modelado, creación de esquema relacional y construcción de indicadores clave a nivel de llamada, con especial foco en limpieza de datos y agregaciones.
 
 ---
 
-## 🧭 Alcance (en breve)
+## 🧭 Alcance 
 - **Modelado de datos**: diseño entidad–relación del dominio académico y de la IVR.
 - **Esquema relacional**: definición de tablas y relaciones (claves primarias/foráneas).
 - **Procesamiento analítico**: integración de ficheros de llamadas, módulos y pasos; generación de un detalle a nivel de paso y un resumen por llamada con métricas e indicadores (segmentación, idioma, duración, listas de módulos, identificación por documento/teléfono, indicadores de incidencias, y repetición de llamadas en ±24h).
@@ -20,7 +20,7 @@ Entrega del módulo SQL aplicada a un caso de IVR. El trabajo abarca modelado, c
 
 ---
 
-## 📦 Estructura del repositorio (simplificada)
+## 📦 Estructura del repositorio 
 ```
 .
 ├─ erd/                 # Diagrama (editable)
